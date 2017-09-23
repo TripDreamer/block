@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"blockchaintest/blockchain/core"
+	"github.com/TripDreamer/block/core"
 )
 
 func main() {
