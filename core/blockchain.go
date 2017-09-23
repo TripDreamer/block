@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"time"
 
-	"blockchain/helpers"
+	"github.com/TripDreamer/block/helpers"
 )
 
 type TransactionsQueue chan *Transaction
