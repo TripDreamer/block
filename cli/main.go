@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"blockchain/core"
+	"github.com/TripDreamer/block/core"
 )
 
 var address = flag.String("ip", fmt.Sprintf("%s:%s", core.GetIpAddress()[0], core.BLOCKCHAIN_PORT), "Public facing ip address") //Host ip address
