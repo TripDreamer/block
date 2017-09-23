@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"time"
 
-	"blockchain/helpers"
+	"github.com/TripDreamer/block/helpers"
 )
 
 type Transaction struct {
