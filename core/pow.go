@@ -3,7 +3,7 @@ package core
 import (
 	"reflect"
 
-	"blockchain/helpers"
+	"github.com/TripDreamer/block/helpers"
 )
 
 var (
