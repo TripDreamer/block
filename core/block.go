@@ -5,8 +5,8 @@ import (
 	"encoding/binary"
 	"reflect"
 
-	"blockchain/functional"
-	"blockchain/helpers"
+	"github.com/TripDreamer/block/functional"
+	"github.com/TripDreamer/block/helpers"
 )
 
 type BlockSlice []Block
