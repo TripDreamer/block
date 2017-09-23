@@ -1,7 +1,7 @@
 package core
 
 import (
-	"blockchain/helpers"
+	"github.com/TripDreamer/block/helpers"
 	"reflect"
 	"testing"
 )
