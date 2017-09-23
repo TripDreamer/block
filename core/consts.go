@@ -42,10 +42,8 @@ const (
 
 func SEED_NODES() []string {
 	nodes := []string{"10.0.5.33"}
-
-	/*for i := 0; i < 10; i++ {
-		nodes = append(nodes, fmt.Sprintf("172.17.0.%d", i))
-	} */
+	nodes = append(nodes, "172.17.0.1","172.17.0.2","172.17.0.3","172.17.0.4","172.17.0.5","172.17.0.6","172.17.0.7")
+	
 
 	return nodes
 }
