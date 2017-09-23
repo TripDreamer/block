@@ -6,8 +6,8 @@ import (
 	"crypto/rand"
 	"math/big"
 
-	"blockchain/base58"
-	"blockchain/helpers"
+	"github.com/TripDreamer/block/base58"
+	"github.com/TripDreamer/block/helpers"
 )
 
 // Key generation with proof of work
