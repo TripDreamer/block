@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"blockchain/helpers"
+	"github.com/TripDreamer/block/helpers"
 )
 
 type ConnectionsQueue chan string
