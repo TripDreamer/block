@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"blockchain/helpers"
+	"github.com/TripDreamer/block/helpers"
 )
 
 func TestBlockDiff(t *testing.T) {
